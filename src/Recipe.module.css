@@ -1,0 +1,24 @@
+.recipe {
+  border-radius: 10px;
+  box-shadow: 0px 5px 20px rgb(177, 174, 174);
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  background: rgb(177, 21, 21);
+  align-items: center;
+  min-width: 40%;
+}
+
+.image {
+  border-radius: 30%;
+  width: 300px;
+  height: 300px;
+}
+
+.recipeAttributes {
+  font-style: italic;
+  font-size: x-large;
+  font-weight: bold;
+  color: darkorange;
+}
