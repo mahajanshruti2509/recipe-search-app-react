@@ -9,4 +9,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 https://recipe-search-app-react.herokuapp.com/
 
 ## Inspiration:
-Dev Ed's YouTube channel: https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q
+[Dev Ed's YouTube channel](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
